@@ -106,6 +106,7 @@ namespace InterviewQuestions
                 Console.ReadLine();
 
                 // Written by Da Hye (Emily) Park on January 27-28, 2020.
+                // Published to github on January 28, 2020.
             }
         }
     }
